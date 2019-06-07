@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThirdProject</string>
+    <string name="you_don_t_have_an_account_nclick_here_to_register">You don\'t have an account? Click here to register</string>
+    <string name="login">Login</string>
+    <string name="error"></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="textview">TextView</string>
+    <string name="nick">Nick</string>
+</resources>
